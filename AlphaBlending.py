@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+beta = 2323
 alpha = float(input("input alpha"))
 
 #합성할 이미지 두개
