@@ -9,7 +9,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 height,width = gray.shape
 
 asdsad
-
+color = asda
 min = gray.min()
 max = gray.max()
 out = gray.copy()
