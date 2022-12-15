@@ -2,6 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
+var = 5
 img = cv2.imread('lenna.png',cv2.IMREAD_GRAYSCALE)
 
 out = img.copy()
